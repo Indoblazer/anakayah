@@ -1,0 +1,37 @@
+	
+name	"Anak Ayah"
+short_name	"anakayah.com"
+start_url	"https://www.anakayah.com/"
+display	"standalone"
+background_color	"#fff"
+theme_color	"#C51162"
+description	"sharing tentang parenting dan kesehatan"
+icons	
+0	
+src	"https://1.bp.blogspot.com/-dmZTZj4LrdA/XrLJD-AUOkI/AAAAAAAAA_c/aDE5_V0vMe4xRxc1boKw4y_rLj58z3OxQCLcBGAsYHQ/s48/anakayah.png"
+sizes	"48x48"
+type	"image/png"
+1	
+src	"https://1.bp.blogspot.com/-dmZTZj4LrdA/XrLJD-AUOkI/AAAAAAAAA_c/aDE5_V0vMe4xRxc1boKw4y_rLj58z3OxQCLcBGAsYHQ/s72/anakayah.png"
+sizes	"72x72"
+type	"image/png"
+2	
+src	"https://1.bp.blogspot.com/-dmZTZj4LrdA/XrLJD-AUOkI/AAAAAAAAA_c/aDE5_V0vMe4xRxc1boKw4y_rLj58z3OxQCLcBGAsYHQ/s96/anakayah.png"
+sizes	"96x96"
+type	"image/png"
+3	
+src	"https://1.bp.blogspot.com/-dmZTZj4LrdA/XrLJD-AUOkI/AAAAAAAAA_c/aDE5_V0vMe4xRxc1boKw4y_rLj58z3OxQCLcBGAsYHQ/s144/anakayah.png"
+sizes	"144x144"
+type	"image/png"
+4	
+src	"https://1.bp.blogspot.com/-dmZTZj4LrdA/XrLJD-AUOkI/AAAAAAAAA_c/aDE5_V0vMe4xRxc1boKw4y_rLj58z3OxQCLcBGAsYHQ/s168/anakayah.png"
+sizes	"168x168"
+type	"image/png"
+5	
+src	"https://1.bp.blogspot.com/-dmZTZj4LrdA/XrLJD-AUOkI/AAAAAAAAA_c/aDE5_V0vMe4xRxc1boKw4y_rLj58z3OxQCLcBGAsYHQ/s192/anakayah.png"
+sizes	"192x192"
+type	"image/png"
+6	
+src	"https://1.bp.blogspot.com/-dmZTZj4LrdA/XrLJD-AUOkI/AAAAAAAAA_c/aDE5_V0vMe4xRxc1boKw4y_rLj58z3OxQCLcBGAsYHQ/s512/anakayah.png"
+sizes	"512x512"
+type	"image/png"
